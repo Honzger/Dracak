@@ -1,0 +1,3 @@
+# 1
+
+Dalsi pokus o to zprovoznit Github...
